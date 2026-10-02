@@ -1,0 +1,1 @@
+{"location_grouped": "From locations.json", "Furnishing": ["Unfurnished", "Semi-Furnished", "Furnished"], "Transaction": ["Resale", "New Property", "Other", "Rent/Lease"], "Ownership": ["Freehold", "Co-operative Society", "Power Of Attorney", "Leasehold"], "facing": ["East", "West", "North - East", "North", "North - West", "South", "South -West", "South - East"]}
